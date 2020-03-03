@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cef740fa-394a-472e-ae36-1d641a570d78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJ6p12k6QGCCt2ujtpqzHeGABV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scrapy" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Python.case04_spyrentInfo">
+    <configuration name="case01_testpackages" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="20200226_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\ProgramData\Anaconda3\envs\dataAna\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:\project\20200226_python\case01_testpackages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="case02_spyredbull" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="20200226_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case02_spyredbull.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="case03_printLianjiaInfo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="20200226_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case03_printLianjiaInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="case04_spyrentInfo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="20200226_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/case04_spyrentInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.case04_spyrentInfo" />
+        <item itemvalue="Python.case03_printLianjiaInfo" />
+        <item itemvalue="Python.case02_spyredbull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef740fa-394a-472e-ae36-1d641a570d78" name="Default Changelist" comment="" />
+      <created>1582648528676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582648528676</updated>
+      <workItem from="1582648532016" duration="541000" />
+      <workItem from="1582688576703" duration="2387000" />
+      <workItem from="1582693916550" duration="20000" />
+      <workItem from="1582704509569" duration="11326000" />
+      <workItem from="1582771508745" duration="1162000" />
+      <workItem from="1582777887273" duration="221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="257" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582689746237">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="257" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582689746237" />
+    <state x="153" y="207" key="FileChooserDialogImpl" timestamp="1582778106496">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="153" y="199" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1582648919730" />
+    <state x="153" y="207" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1582778106496" />
+    <state width="1636" height="485" key="GridCell.Tab.0.bottom" timestamp="1582732391509">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="485" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582732391509" />
+    <state width="1636" height="485" key="GridCell.Tab.0.center" timestamp="1582732391509">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="485" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582732391509" />
+    <state width="1636" height="485" key="GridCell.Tab.0.left" timestamp="1582732391509">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="485" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582732391509" />
+    <state width="1636" height="485" key="GridCell.Tab.0.right" timestamp="1582732391509">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="485" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582732391509" />
+    <state x="343" y="141" key="SettingsEditor" timestamp="1582708558783">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="343" y="136" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1582649063632" />
+    <state x="343" y="141" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1582708558783" />
+    <state x="532" y="331" key="com.intellij.ide.util.TipDialog" timestamp="1582648584786">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="532" y="331" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582648584786" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/20200226_python$case04_spyrentInfo.coverage" NAME="case04_spyrentInfo Coverage Results" MODIFIED="1582725598568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/20200226_python$case01_testpackages.coverage" NAME="case01_testpackages Coverage Results" MODIFIED="1582706685626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/20200226_python$20200226_python.coverage" NAME="case01 Coverage Results" MODIFIED="1582690231226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/20200226_python$case03_printLianjiaInfo.coverage" NAME="case03_printLianjiaInfo Coverage Results" MODIFIED="1582713587157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/20200226_python$case02_spyredbull.coverage" NAME="case02_spyredbull Coverage Results" MODIFIED="1582710358525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
